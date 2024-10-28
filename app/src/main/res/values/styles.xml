@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="HeadingSemiBold_16">
+        <item name="font">@font/semibold</item>
+        <item name="android:textSize">@dimen/textSize16</item>
+        <item name="android:textColor">@color/dark_black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="Reguler_16">
+        <item name="font">@font/regular</item>
+        <item name="android:textSize">@dimen/textSize16</item>
+        <item name="android:textColor">@color/dark_black</item>
+    </style>
+
+    <style name="Subheading_14">
+        <item name="font">@font/regular</item>
+        <item name="android:textSize">@dimen/textSize14</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="Subheading_12">
+        <item name="font">@font/regular</item>
+        <item name="android:textSize">@dimen/textSize12</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="Subheading_8">
+        <item name="font">@font/regular</item>
+        <item name="android:textSize">8sp</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+
+    <style name="Heading_Light_12">
+        <item name="font">@font/light</item>
+        <item name="android:textSize">@dimen/textSize12</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
+
+</resources>
